@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm ALWIN K J 👋</h1>
+[<h1 align="center">Hi there, I'm ALWIN K J 👋</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -36,3 +36,4 @@ I'm a CS student with a background in multimedia animation and photo editing. I 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
+](https://www.instagram.com/_alwin_k_j/)
