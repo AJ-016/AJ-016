@@ -1,84 +1,84 @@
 <div align="center">
 
-```
- █████╗ ██╗     ██╗    ██╗██╗███╗   ██╗
-██╔══██╗██║     ██║    ██║██║████╗  ██║
-███████║██║     ██║ █╗ ██║██║██╔██╗ ██║
-██╔══██║██║     ██║███╗██║██║██║╚██╗██║
-██║  ██║███████╗╚███╔███╔╝██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4FC3F7&background=00000000&center=true&vCenter=true&width=600&lines=hey+%2C+I%27m+Alwin+%F0%9F%91%BE;Code.+Break.+Fix.+Repeat.;still+learning+%E2%80%94+always+building.;security+is+just+curiosity+with+a+hoodie.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Security+Enthusiast;BTech+CSE+%7C+Multimedia+%26+Animation;Code.+Break.+Fix.+Repeat.)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=AJ-016&color=00ff41&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AJ-016&color=4fc3f7&style=flat-square&label=VISITORS" alt="profile views"/>
 
 </div>
 
 ---
 
-## `~/whoami`
+## `$ whoami`
+
+```
+┌──(alwin㉿AJ-016)-[~]
+└─$ cat about.me
+
+  handle     →  AJ-016
+  name       →  Alwin
+  studying   →  BTech CSE  (currently surviving)
+  background →  Diploma in Multimedia & Animation
+  building   →  web apps, tools, and things that (sometimes) work
+  vibe       →  beginner who googles everything but ships anyway
+```
+
+---
+
+## `$ ls ~/projects`
 
 ```bash
-┌──(alwin㉿AJ-016)-[~]
-└─$ cat about.txt
-
-  Name       : Alwin
-  Handle     : AJ-016
-  Degree     : BTech CSE (in progress)
-  Background : Diploma — Multimedia & Animation
-  Interests  : Web Dev · Security · Building useful tools
-  Motto      : Code. Break. Fix. Repeat.
+drwxr-xr-x  yo-chat            # real-time chat app
+drwxr-xr-x  sticker-studio-pro # design & customize stickers in browser
+drwxr-xr-x  my-local-automator # automate local tasks with scripts
+drwxr-xr-x  Postman_clone      # HTTP client — test APIs without the app
+drwxr-xr-x  notes_apk          # clean notes with local storage
+drwxr-xr-x  to-do-app          # task manager that actually works
 ```
 
----
-
-## `~/projects`
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| 💬 **[yo-chat](https://github.com/AJ-016/yo-chat)** | Real-time chat application | `JS` `HTML` `CSS` |
-| 🎨 **[sticker-studio-pro](https://github.com/AJ-016/sticker-studio-pro)** | Create & customize stickers in-browser | `JS` `HTML` `CSS` `Python` |
-| 🤖 **[my-local-automator](https://github.com/AJ-016/my-local-automator)** | Automate local tasks via scripts & triggers | `JS` `CSS` `Python` `HTML` |
-| 📬 **[Postman_clone](https://github.com/AJ-016/Postman_clone)** | Full HTTP client — test APIs like a pro | `JS` `CSS` `HTML` |
-| 📝 **[notes_apk](https://github.com/AJ-016/notes_apk)** | Minimal note-taking with local persistence | `JS` `CSS` `HTML` |
-| ✅ **[to-do-app](https://github.com/AJ-016/to-do-app)** | Clean task manager with priorities | `JS` `CSS` `HTML` |
+| | Project | Stack |
+|--|---------|-------|
+| 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | `JS` `HTML` `CSS` |
+| 🎨 | **[sticker-studio-pro](https://github.com/AJ-016/sticker-studio-pro)** | `JS` `HTML` `CSS` `Python` |
+| 🤖 | **[my-local-automator](https://github.com/AJ-016/my-local-automator)** | `JS` `Python` `CSS` `HTML` |
+| 📬 | **[Postman_clone](https://github.com/AJ-016/Postman_clone)** | `JS` `CSS` `HTML` |
+| 📝 | **[notes_apk](https://github.com/AJ-016/notes_apk)** | `JS` `CSS` `HTML` |
+| ✅ | **[to-do-app](https://github.com/AJ-016/to-do-app)** | `JS` `CSS` `HTML` |
 
 ---
 
-## `~/stack`
+## `$ cat skills.txt`
 
-**Languages I work with**
+**Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=4FC3F7)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
 
-**Tools & Platforms**
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=4FC3F7)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
 
 ---
 
-## `~/stats`
+## `$ git log --stat`
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=AJ-016&show_icons=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41&hide_border=false&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AJ-016&show_icons=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-016&layout=compact&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-016&layout=compact&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&border_color=30363d" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AJ-016&theme=terminal&background=0D0D0D&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)
+![GitHub Streak](https://streak-stats.demolab.com?user=AJ-016&theme=dark&background=0D1117&border=30363D&stroke=4FC3F7&ring=4FC3F7&fire=4FC3F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=8b949e)
 
 </div>
 
@@ -87,12 +87,11 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────┐
-│   "First, solve the problem. Then, write the code." │
-└─────────────────────────────────────────────────────┘
+  the gap between what I know and what I want to build
+  is where all the fun happens.
 ```
 
-![GitHub followers](https://img.shields.io/github/followers/AJ-016?color=00ff41&style=flat-square&logo=github&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/AJ-016?color=00ff41&style=flat-square&logo=github&label=TOTAL+STARS)
+![followers](https://img.shields.io/github/followers/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=followers)
+![stars](https://img.shields.io/github/stars/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=stars)
 
 </div>
