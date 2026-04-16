@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4FC3F7&background=00000000&center=true&vCenter=true&width=600&lines=hey+%2C+I%27m+Alwin+%F0%9F%91%BE;Code.+Break.+Fix.+Repeat.;still+learning+%E2%80%94+always+building.;security+is+just+curiosity+with+a+hoodie.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=AJ-016&color=4fc3f7&style=flat-square&label=VISITORS" alt="profile views"/>
-
 </div>
 
 ---
@@ -93,5 +91,6 @@
 
 ![followers](https://img.shields.io/github/followers/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=followers)
 ![stars](https://img.shields.io/github/stars/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=stars)
+<img src="https://komarev.com/ghpvc/?username=AJ-016&color=4fc3f7&style=flat-square&label=VISITORS" alt="profile views"/>
 
 </div>
