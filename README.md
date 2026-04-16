@@ -1,97 +1,21 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Alwin KJ</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4FC3F7&background=00000000&center=true&vCenter=true&width=600&lines=hey+%2C+I%27m+Alwin+%F0%9F%91%BE;Code.+Break.+Fix.+Repeat.;still+learning+%E2%80%94+always+building.;security+is+just+curiosity+with+a+hoodie.)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-016j&label=Profile%20views&color=0e75b6&style=flat" alt="a-016j" /> </p>
 
-<img src="https://komarev.com/ghpvc/?username=AJ-016&color=4fc3f7&style=flat-square&label=VISITORS" alt="profile views"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-016j" alt="a-016j" /></a> </p>
 
-</div>
+- 🔭 I’m currently working on [yo-chat](https://github.com/AJ-016/yo-chat)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alwin-kj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alwin-kj/" height="30" width="40" /></a>
+<a href="https://instagram.com/_alwin_k_j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_alwin_k_j/" height="30" width="40" /></a>
+</p>
 
-## `$ whoami`
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-```
-┌──(alwin㉿AJ-016)-[~]
-└─$ cat about.me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-016j&show_icons=true&locale=en" alt="a-016j" /></p>
 
-  handle     →  AJ-016
-  name       →  Alwin
-  studying   →  BTech CSE  (currently surviving)
-  background →  Diploma in Multimedia & Animation
-  building   →  web apps, tools, and things that (sometimes) work
-  vibe       →  beginner who googles everything but ships anyway
-```
-
----
-
-## `$ ~/projects`
-
-```bash
-  yo-chat            # real-time chat app
-  sticker-studio-pro # design & customize stickers in browser
-  my-local-automator # automate local tasks with scripts
-  Postman_clone      # HTTP client — test APIs without the app
-  notes_apk          # clean notes with local storage
-  to-do-app          # task manager that actually works
-```
-
-| | Project | Stack |
-|--|---------|-------|
-| 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | `JS` `HTML` `CSS` |
-| 🎨 | **[sticker-studio-pro](https://github.com/AJ-016/sticker-studio-pro)** | `JS` `HTML` `CSS` `Python` |
-| 🤖 | **[my-local-automator](https://github.com/AJ-016/my-local-automator)** | `JS` `Python` `CSS` `HTML` |
-| 📬 | **[Postman_clone](https://github.com/AJ-016/Postman_clone)** | `JS` `CSS` `HTML` |
-| 📝 | **[notes_apk](https://github.com/AJ-016/notes_apk)** | `JS` `CSS` `HTML` |
-| ✅ | **[to-do-app](https://github.com/AJ-016/to-do-app)** | `JS` `CSS` `HTML` |
-
----
-
-## `$ skills`
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=4FC3F7)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=4FC3F7)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
-
----
-
-## `$ git stat`
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AJ-016&show_icons=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-016&layout=compact&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&border_color=30363d" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AJ-016&theme=dark&background=0D1117&border=30363D&stroke=4FC3F7&ring=4FC3F7&fire=4FC3F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=8b949e)
-
-</div>
-
----
-
-<div align="center">
-
-```
-  the gap between what I know and what I want to build
-  is where all the fun happens.
-```
-
-![followers](https://img.shields.io/github/followers/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=followers)
-![stars](https://img.shields.io/github/stars/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=stars)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-016j&" alt="a-016j" /></p>
