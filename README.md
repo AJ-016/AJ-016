@@ -24,15 +24,15 @@
 
 ---
 
-## `$ ls ~/projects`
+## `$ ~/projects`
 
 ```bash
-drwxr-xr-x  yo-chat            # real-time chat app
-drwxr-xr-x  sticker-studio-pro # design & customize stickers in browser
-drwxr-xr-x  my-local-automator # automate local tasks with scripts
-drwxr-xr-x  Postman_clone      # HTTP client — test APIs without the app
-drwxr-xr-x  notes_apk          # clean notes with local storage
-drwxr-xr-x  to-do-app          # task manager that actually works
+  yo-chat            # real-time chat app
+  sticker-studio-pro # design & customize stickers in browser
+  my-local-automator # automate local tasks with scripts
+  Postman_clone      # HTTP client — test APIs without the app
+  notes_apk          # clean notes with local storage
+  to-do-app          # task manager that actually works
 ```
 
 | | Project | Stack |
@@ -46,7 +46,7 @@ drwxr-xr-x  to-do-app          # task manager that actually works
 
 ---
 
-## `$ cat skills.txt`
+## `$ skills`
 
 **Languages**
 
@@ -66,7 +66,7 @@ drwxr-xr-x  to-do-app          # task manager that actually works
 
 ---
 
-## `$ git log --stat`
+## `$ git stat`
 
 <div align="center">
 
