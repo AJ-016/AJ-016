@@ -6,7 +6,7 @@
 
 ---
 
-## `$ whoami`
+## `Whoami`
 
 ```
 ┌──(alwin㉿AJ-016)-[~]
@@ -22,7 +22,7 @@
 
 ---
 
-## `$ ~/projects`
+## `Projects`
 
 ```bash
   yo-chat            # real-time chat app
@@ -44,7 +44,7 @@
 
 ---
 
-## `$ skills`
+## `Skills`
 
 **Languages**
 
@@ -64,7 +64,7 @@
 
 ---
 
-## `$ git stat`
+## `git stat`
 
 <div align="center">
 
