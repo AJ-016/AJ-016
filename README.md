@@ -117,7 +117,6 @@ status = online (probably debugging something unnecessary)
 
 <div align="center">
   <i>"Code. Break. Fix. Repeat — until it feels like magic."</i>
-  <i>The gap between what I know and what I want to build <br> is where all the fun happens.</i>
   <br>
   <i>"The gap between what I know and what I want to build <br> is where all the fun happens."</i>
 </div>
