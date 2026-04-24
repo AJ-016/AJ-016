@@ -75,10 +75,10 @@
 
 <div align="center">
 
-```
+
   the gap between what I know and what I want to build
-              is where all the fun happens.
-```
+  is where all the fun happens.
+
 
 ![followers](https://img.shields.io/github/followers/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=followers)
 ![stars](https://img.shields.io/github/stars/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=stars)
