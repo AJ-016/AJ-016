@@ -25,7 +25,7 @@
 ## `Projects`
 
 | | Project | Stack | |
-|--|---------|-------|
+|--|---------|-------|---------|
 | 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | `JS` `HTML` `CSS` | real-time chat app |
 | 🎨 | **[sticker-studio-pro](https://github.com/AJ-016/sticker-studio-pro)** | `JS` `HTML` `CSS` `Python` | design & customize stickers in browser |
 | 🤖 | **[my-local-automator](https://github.com/AJ-016/my-local-automator)** | `JS` `Python` `CSS` `HTML` | automate local tasks with scripts | 
