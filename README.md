@@ -24,23 +24,14 @@
 
 ## `Projects`
 
-```bash
-  yo-chat            # real-time chat app
-  sticker-studio-pro # design & customize stickers in browser
-  my-local-automator # automate local tasks with scripts
-  Postman_clone      # HTTP client — test APIs without the app
-  notes_apk          # clean notes with local storage
-  to-do-app          # task manager that actually works
-```
-
-| | Project | Stack |
+| | Project | Stack | |
 |--|---------|-------|
-| 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | `JS` `HTML` `CSS` |
-| 🎨 | **[sticker-studio-pro](https://github.com/AJ-016/sticker-studio-pro)** | `JS` `HTML` `CSS` `Python` |
-| 🤖 | **[my-local-automator](https://github.com/AJ-016/my-local-automator)** | `JS` `Python` `CSS` `HTML` |
-| 📬 | **[Postman_clone](https://github.com/AJ-016/Postman_clone)** | `JS` `CSS` `HTML` |
-| 📝 | **[notes_apk](https://github.com/AJ-016/notes_apk)** | `JS` `CSS` `HTML` |
-| ✅ | **[to-do-app](https://github.com/AJ-016/to-do-app)** | `JS` `CSS` `HTML` |
+| 💬 | **[yo-chat](https://github.com/AJ-016/yo-chat)** | `JS` `HTML` `CSS` | real-time chat app |
+| 🎨 | **[sticker-studio-pro](https://github.com/AJ-016/sticker-studio-pro)** | `JS` `HTML` `CSS` `Python` | design & customize stickers in browser |
+| 🤖 | **[my-local-automator](https://github.com/AJ-016/my-local-automator)** | `JS` `Python` `CSS` `HTML` | automate local tasks with scripts | 
+| 📬 | **[Postman_clone](https://github.com/AJ-016/Postman_clone)** | `JS` `CSS` `HTML` | HTTP client — test APIs without the app |
+| 📝 | **[notes_apk](https://github.com/AJ-016/notes_apk)** | `JS` `CSS` `HTML` | clean notes with local storage |
+| ✅ | **[to-do-app](https://github.com/AJ-016/to-do-app)** | `JS` `CSS` `HTML` | task manager that actually works |
 
 ---
 
@@ -86,7 +77,7 @@
 
 ```
   the gap between what I know and what I want to build
-  is where all the fun happens.
+              is where all the fun happens.
 ```
 
 ![followers](https://img.shields.io/github/followers/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=followers)
