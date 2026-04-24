@@ -6,23 +6,55 @@
 
 ---
 
-## `Whoami`
+### 👾 `> whoami`
 
-```
-┌──(alwin㉿AJ-016)-[~]
-└─$ cat about.me
+```bash
+┌──(aj-016㉿404-brain-not-found)-[~]
+└─$ ./whoami.sh
 
-  handle     →  AJ-016
-  name       →  Alwin
-  studying   →  BTech CSE  (currently surviving)
-  background →  Diploma in Multimedia & Animation
-  building   →  web apps, tools, and things that (sometimes) work
-  vibe       →  beginner who googles everything but ships anyway
+[ identity ]
+  name        : Alwin
+  alias       : AJ-016
+  role        : student / builder / debugger
+
+[ status ]
+  education   : BTech CSE (in progress...)
+  background  : Multimedia & Animation
+  state       : caffeinated ☕ | slightly confused
+
+[ interests ]
+  focus       : AI, Cybersecurity, Local-first systems
+  philosophy  : "if it needs cloud, it better have a reason"
+
+[ traits ]
+  mode        : lazy but efficient
+  alt-mode    : bug-factory 🏭
+  skillset    : google-driven development
+  output      : working code > perfect code
 ```
 
 ---
 
-## `Projects`
+### 🧠 currently.exe
+
+```bash
+> learning     : AI + security
+> building     : local AI assistant
+> exploring    : self-hosted systems
+> mood         : what-am-i-doing 🤨
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,c,figma,git,github,vscode,linux,bash&theme=dark&perline=6" />
+</div>
+
+---
+
+### 🚀 Projects
 
 | | Project | Stack | |
 |--|---------|-------|---------|
@@ -35,53 +67,57 @@
 
 ---
 
-## `Skills`
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=4FC3F7)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=4FC3F7)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
-
----
-
-## `git stat`
+### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AJ-016&show_icons=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-016&layout=compact&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&border_color=30363d" />
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AJ-016&show_icons=true&bg_color=0d1117&title_color=00F5A0&icon_color=7F00FF&text_color=c9d1d9&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-016&layout=compact&bg_color=0d1117&title_color=00F5A0&text_color=c9d1d9&hide_border=true" />
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AJ-016&theme=dark&background=0D1117&border=30363D&stroke=4FC3F7&ring=4FC3F7&fire=4FC3F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=8b949e)
-
+  <img src="https://streak-stats.demolab.com?user=AJ-016&theme=dark&background=0D1117&border=0D1117&stroke=00F5A0&ring=7F00FF&fire=7F00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5A0&sideLabels=00F5A0&dates=8b949e" />
 </div>
 
 ---
 
+### 🌐 connect()
+
 <div align="center">
 
+<a href="https://www.linkedin.com/in/alwin-kj/">
+<img src="https://img.shields.io/badge/LinkedIn-00F5A0?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
-  <p align="center">
+<a href="mailto:alwinjaison8023@gmail.com">
+<img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AJ-016">
+<img src="https://img.shields.io/badge/GitHub-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/_alwin_k_j/">
+<img src="https://img.shields.io/badge/Instagram-7F00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 🛰️ presence.log
+
+```bash
+discord_display_name = U_Know_Who
+discord_username     = dark0gamer
+
+status = online (probably debugging something unnecessary)
+```
+
+---
+
+<div align="center">
+  <i>"Code. Break. Fix. Repeat — until it feels like magic."</i>
   <i>The gap between what I know and what I want to build <br> is where all the fun happens.</i>
-</p>
-
-![followers](https://img.shields.io/github/followers/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=followers)
-![stars](https://img.shields.io/github/stars/AJ-016?color=4fc3f7&style=flat-square&logo=github&label=stars)
-<img src="https://komarev.com/ghpvc/?username=AJ-016&color=4fc3f7&style=flat-square&label=VISITORS" alt="profile views"/>
-
+  <br>
+  <i>"The gap between what I know and what I want to build <br> is where all the fun happens."</i>
 </div>
